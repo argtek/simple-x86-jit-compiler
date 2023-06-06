@@ -1,4 +1,4 @@
-c4 - C in four functions
+four functions
 ========================
 
 An exercise in minimalism.
@@ -13,7 +13,7 @@ Try the following:
     ./c4 c4.c c4.c hello.c
 
 
-c4x86 - JIT compiler for x86 in 86 lines
+JIT compiler for x86 in 86 lines
 ========================================
 
 An exercise in bit-twiddling masochism.
